@@ -1,7 +1,5 @@
 first pull commit
 Second commit
-<<<<<<< HEAD
-third commit
-=======
+third commitg
 fourth commit
->>>>>>> acd9f29b9fb57a1ad592db127946a65f1eb9718f
+fifth change
